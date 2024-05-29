@@ -1,6 +1,4 @@
 # SightEase
-# Project Name
-
 ## Overview
 
 Welcome to our project! This repository contains the core code, supporting files, and notebooks used for model training and code experimentation. Here is a brief overview of the structure and purpose of each file.
